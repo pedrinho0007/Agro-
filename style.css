@@ -104,7 +104,7 @@ main {
 }
 
 .conteudo h2 {
-    font-size: 1.8em;
+    font-size: 2em;
     margin-bottom: 15px;
     border-bottom: 2px solid #ccc;
     padding-bottom: 5px;
@@ -117,7 +117,7 @@ main {
 }
 
 .conteudo p {
-    font-size: 1em;
+    font-size: 1.2em;
     margin-bottom: 15px;
 }
 
